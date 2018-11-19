@@ -22,7 +22,7 @@ CS 433: Operative Systems.
 
 </br>
 <b> VIRTUAL_MEM_MANAGER: </b>
-   This program read a .txt file containing 1000 logical addresses.  
+   This program reads a .txt file containing 1000 logical addresses.  
    From each of the addresses we get it's Page Number and Offset.  
-   The TLB is used in order to translate from logical to physical.  
+   The TLB is used in order to translate from logical to physical memory addresses.  
 </br>
